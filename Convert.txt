@@ -1,0 +1,14 @@
+public class Convert {
+	
+	public static void main(String args[])
+	{
+		byte b;
+		double i=127;
+		double d=11.95;
+		b=(byte)d;
+		System.out.println(d+" in byte is "+b);
+		b=(byte)i;
+		System.out.println(i+" in byte is "+b);	
+	}
+
+}
