@@ -8,7 +8,7 @@ public class Convert {
 		b=(byte)d;
 		System.out.println(d+" in byte is "+b);
 		b=(byte)i;
-		System.out.println(i+" in byte is "-b);	
+		System.out.println(i+" in byte is "+b);	
 	}
 
 }
