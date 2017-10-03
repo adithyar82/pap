@@ -20,7 +20,11 @@ void loop() {
   if (mySerial.available()) {
     d=mySerial.read();
     delay(10);
+<<<<<<< HEAD
     mySerial.write(z);
+=======
+    mySerial.write(a);
+>>>>>>> 8403dcaa483fa3161e3f977dffdee08ee0dbedfe
 
   }
 }
