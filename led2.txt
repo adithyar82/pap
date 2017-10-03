@@ -20,7 +20,7 @@ void loop() {
   if (mySerial.available()) {
     d=mySerial.read();
     delay(10);
-    mySerial.write(f);
+    mySerial.write(a);
 
   }
 }
