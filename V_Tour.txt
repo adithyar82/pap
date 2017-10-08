@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body  {
+    background: url(https://upload.wikimedia.org/wikipedia/commons/9/90/Tea_plantations%2C_Chembra_peak%2C_Western_Ghats_Kerala.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 60% ;
+    background-color:#00E1FF;
+}
+
+.container {
+    position: relative;
+    padding-left: 25px;
+    color:#000000;
+    padding-top: 350px;
+}
+.top-right1 {
+    position: absolute;
+    top: 360px;
+    right: 1050px;
+    background-color: rgba(199, 194, 184, 0.49);
+}
+.top-right2 {
+    position: absolute;
+    top: 360px;
+    right: 750px;
+    background-color: rgba(199, 194, 184, 0.49);
+}
+.top-right3 {
+    position: absolute;
+    top: 360px;
+    right:400px;
+    background-color: rgba(199, 194, 184, 0.49);
+}
+.top-right4 {
+    position: absolute;
+    top: 360px;
+    right:60px;
+    background-color: rgba(199, 194, 184, 0.49);
+}
+a:link {
+    color: green; 
+    background-color: transparent; 
+    text-decoration: none;
+}
+
+a:visited {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+p{
+    padding-left: 600px;
+   font-size: 150%
+}
+
+
+</style>
+</head>
+<body>
+        
+        <h1>V Tour</h1>
+        <p>Happy journey!!!</p>
+        
+<div class="container">
+
+        <a href="karnataka.html" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Mysore_Palace%2C_India_%28photo_-_Jim_Ankan_Deka%29.jpg" alt="Mysore Palace"style="width:25%" ;>
+<div class="top-right1">Karnataka</div>
+</a>
+
+<a href="https://packages.yatra.com/holidays/intl/search.htm?destination=Dubai&focus=Group%20Tour&_ga=2.186487657.1730361937.1506954411-1911594527.1506954411" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Marina_Beach.jpg" alt="Marina Beach" style="width:22%;">
+ <div class="top-right2">Tamilnadu</div>
+</a>
+
+<a href="https://www.w3schools.com" target="_blank">
+ <img src="https://c1.staticflickr.com/9/8035/8029549487_5eae4e2e3c_b.jpg" alt="Cochin International Airport" style="width:24.8%;">
+ <div class="top-right3">Kerala</div>
+</a>
+
+<a href="https://www.w3schools.com" target="_blank">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Church_of_St._Francis_Xavier%2C_old_goa.JPG/1024px-Church_of_St._Francis_Xavier%2C_old_goa.JPG" alt="Church" style="width:24.9%;">
+ <div class="top-right4">Goa</div>
+</a>
+
+
+
+
+</div>
+
+</body>
+</html> 

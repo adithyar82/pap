@@ -1,0 +1,43 @@
+<html>
+        <head>
+        <title>V Tour</title>
+        <style>
+          img {
+    border-radius: 8px;
+}
+        div1{
+            padding-top: 01px;
+            padding-left: 560px;
+        }
+        p{
+            font-size: 30px;
+            padding-left: 600px;
+        }
+        .container{
+            padding-top: 100px;
+            padding-left: 1px;
+        }
+        
+        </style>
+
+        </head>
+        <body>
+            <p>Karnataka</p>
+            <h1>Mysore palace</h1>
+            <div1>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/India_Karnataka_location_map.svg/400px-India_Karnataka_location_map.svg.png" alt="Karnataka state map" width="200" height="200">
+                
+            </div1>
+            <div class="container">
+                
+            <img src="https://www.mapsofindia.com/mysore/tourist-attractions/images/mysore-palace.jpg" alt="Mysore palace" style="width:304px;height:228px;">
+            </div>
+            <p1>    <br>
+                    Location:   Sayyaji Rao Rd, Agrahara, Chamrajpura, Mysuru, Karnataka 570001<br>
+                    Website:    mysorepalace.gov.in<br>
+                    Contact no: 0821 242 1051<br>
+                    Timings:    Opens at 10:00 AM<br>
+                   
+            </p1>
+        </body>
+        </html>
